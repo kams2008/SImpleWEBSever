@@ -34,7 +34,7 @@ Serve the HTML pages.
 Start the server script and check for errors.
 
 ### Step 10:
-Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
+Open a browser and navigate to http://127.0.0.1:8080/ (or the assigned port).
 
 ## PROGRAM:
 
